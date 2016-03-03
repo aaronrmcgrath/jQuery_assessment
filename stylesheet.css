@@ -1,0 +1,9 @@
+.new-button {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
+
+.highlight {
+  background-color: red;
+}
